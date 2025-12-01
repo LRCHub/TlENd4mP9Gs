@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "微笑みの爆弾",
+  "base_artist": "馬渡松子",
+  "createdAt": "2025-12-01T14:47:47.925038Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "微笑みの爆弾",
+      "artist": "All That Jazz",
+      "has_synced": false,
+      "path": "select/01_微笑みの爆弾_All_That_Jazz.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "微笑みの爆弾",
+      "artist": "馬渡松子",
+      "has_synced": true,
+      "path": "select/02_微笑みの爆弾_馬渡松子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "微笑みの爆弾",
+      "artist": "緒方恵美",
+      "has_synced": false,
+      "path": "select/03_微笑みの爆弾_緒方恵美.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "微笑みの爆弾",
+      "artist": "中川翔子",
+      "has_synced": true,
+      "path": "select/04_微笑みの爆弾_中川翔子.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "微笑みの爆弾 - Hohoemi no Bakudan",
+      "artist": "Matsuko Mawatari",
+      "has_synced": true,
+      "path": "select/05_微笑みの爆弾_-_Hohoemi_no_Bakudan_Matsuko_Mawatari.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "微笑みの爆弾",
+      "artist": "馬渡松子",
+      "has_synced": true,
+      "path": "select/06_微笑みの爆弾_馬渡松子.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "01 微笑みの爆弾",
+      "artist": "馬渡松子",
+      "has_synced": true,
+      "path": "select/07_01_微笑みの爆弾_馬渡松子.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "微笑みの爆弾",
+      "artist": "Matsuko Mawatari",
+      "has_synced": true,
+      "path": "select/08_微笑みの爆弾_Matsuko_Mawatari.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "微笑みの爆弾 (幽☆遊☆白書)",
+      "artist": "Matsuko Mawatari",
+      "has_synced": true,
+      "path": "select/09_微笑みの爆弾_(幽☆遊☆白書)_Matsuko_Mawatari.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "微笑みの爆弾",
+      "artist": "Matsuko Mawatari",
+      "has_synced": true,
+      "path": "select/10_微笑みの爆弾_Matsuko_Mawatari.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "01 - Matsuko Mawatari - 微笑みの爆弾",
+      "artist": "Matsuko Mawatari",
+      "has_synced": true,
+      "path": "select/11_01_-_Matsuko_Mawatari_-_微笑みの爆弾_Matsuko_Mawatari.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "微笑みの爆弾",
+      "artist": "少女-ロリヰタ-23区",
+      "has_synced": false,
+      "path": "select/12_微笑みの爆弾_少女-ロリヰタ-23区.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "微笑みの爆弾 (馬渡松子)",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/13_微笑みの爆弾_(馬渡松子)_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "微笑みの爆弾 (オリジナルカラオケ)",
+      "artist": "Unknown Artist",
+      "has_synced": false,
+      "path": "select/14_微笑みの爆弾_(オリジナルカラオケ)_Unknown_Artist.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "微笑みの爆弾",
+      "artist": "馬渡 松子",
+      "has_synced": false,
+      "path": "select/pl_01_微笑みの爆弾_馬渡_松子.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "微笑みの爆弾",
+      "artist": "馬渡 松子",
+      "has_synced": false,
+      "path": "select/pl_02_微笑みの爆弾_馬渡_松子.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "微笑みの爆弾",
+      "artist": "馬渡 松子",
+      "has_synced": false,
+      "path": "select/pl_03_微笑みの爆弾_馬渡_松子.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "微笑みの爆弾",
+      "artist": "馬渡 松子",
+      "has_synced": false,
+      "path": "select/pl_04_微笑みの爆弾_馬渡_松子.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "微笑みの爆弾",
+      "artist": "馬渡 松子",
+      "has_synced": false,
+      "path": "select/pl_05_微笑みの爆弾_馬渡_松子.txt"
+    }
+  ]
+}
